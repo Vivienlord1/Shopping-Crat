@@ -1,0 +1,93 @@
+
+/* Top right text */
+.top-right {
+    position: absolute;
+    top: 12px;
+    right: 24px;
+    background-color: rgb(26, 26, 26);
+    padding: 5px;
+    color: white;
+  }
+  h3{
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  span{
+    font-size: x-large;
+    font-weight: bold;
+  }
+
+  hr{
+    background-color: yellow;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  ;
+  width: 10%;
+  height: 2px;
+  margin-top: 0px;
+  }
+
+  .btn-primary{
+    padding-right: 60px;
+  padding-left: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  background-color: black;
+  }
+
+  .caption{
+    align-content: center;
+    text-align: center;
+  }
+
+  .thumbnail{
+    border: none;
+  }
+  
+  .price{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+  }
+
+  .secondprice{
+    margin-top: 0px;
+padding-bottom: 24px;
+color:  rgb(228, 225, 212);
+font-weight: bold;
+  }
+
+  .btn-side
+  {
+  border-radius: 100%;
+  border: none;
+  background-color: rgb(228, 225, 212);
+  
+  margin-right: 3px;
+  margin-bottom: 15px;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  }
+  
+  body{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .word{
+    margin-left: 230px;
+    margin-top: 0px;
+  }
+
+  h1{
+    margin: 0px;
+  }
+
+  .dropdown{
+    margin-left: 73%;
+    margin-bottom: 0px;
+  }
